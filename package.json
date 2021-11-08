@@ -1,0 +1,22 @@
+{
+  "name": "soda-bootcamp",
+  "version": "1.0.0",
+  "description": "SoDA Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanmayChaudhari04/SoDA-Bootcamp.git"
+  },
+  "author": "ASU Tanmay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanmayChaudhari04/SoDA-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/TanmayChaudhari04/SoDA-Bootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
